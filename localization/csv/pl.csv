@@ -1,0 +1,17 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+;
+2119999000|        |panel_fair_trading_prices|Uczciwy handel
+2119999001|        |preset_Mods_fair_trading_prices|Uczciwy handel
+2119999002|        |preset_value_ftp_same_prices|Identycznie
+2119999003|        |preset_value_ftp_fair_trade|Uczciwie
+2119999004|        |preset_value_ftp_hard_bargain|Twardo
+2119999005|        |preset_value_ftp_desperate_deal|Desperacko
+2119999006|        |preset_value_ftp_merchant_exploitation|Wyzysk
+2119999007|        |preset_value_ftp_fleeced_alive|Oszustwo
+2119999008|        |preset_value_ftp_utter_robbery|Ruinacja
+2119999009|        |option_ftp_enable_mod|Włącz mod
+2119999010|        |option_ftp_infinite_funds_for_shops|Nieskończone fundusze dla sklepów
+2119999011|        |option_ftp_original_prices|Oryginalne ceny (z uwzględnieniem wszystkich zmiennych)
+2119999012|        |option_ftp_trading_multiplier|Mnożnik handlu (więcej = taniej)
+2119999013|        |option_ftp_orig_price_multiplier|Mnożnik cen

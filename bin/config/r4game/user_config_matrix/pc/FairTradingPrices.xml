@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UserConfig>
+  <Group id="ModFairTradingPrices" displayName="Mods.fair_trading_prices" defaultPreset="1">
+    <PresetsArray>
+      <Preset id="0" displayName="ftp_same_prices">
+        <Entry varId="FTP_IsEnabled" value="true"/>
+        <Entry varId="FTP_OriginalPrices" value="true"/>
+        <Entry varId="FTP_InfiniteFundsShops" value="false"/>
+        <Entry varId="FTP_SellModifier" value="100"/>
+        <Entry varId="FTP_PriceMultiplier" value="1"/>
+      </Preset>
+      <Preset id="1" displayName="ftp_fair_trade">
+        <Entry varId="FTP_IsEnabled" value="true"/>
+        <Entry varId="FTP_OriginalPrices" value="true"/>
+        <Entry varId="FTP_InfiniteFundsShops" value="false"/>
+        <Entry varId="FTP_SellModifier" value="80"/>
+        <Entry varId="FTP_PriceMultiplier" value="1"/>
+      </Preset>
+      <Preset id="2" displayName="ftp_hard_bargain">
+        <Entry varId="FTP_IsEnabled" value="true"/>
+        <Entry varId="FTP_OriginalPrices" value="true"/>
+        <Entry varId="FTP_InfiniteFundsShops" value="false"/>
+        <Entry varId="FTP_SellModifier" value="70"/>
+        <Entry varId="FTP_PriceMultiplier" value="1"/>
+      </Preset>
+      <Preset id="3" displayName="ftp_desperate_deal">
+        <Entry varId="FTP_IsEnabled" value="true"/>
+        <Entry varId="FTP_OriginalPrices" value="true"/>
+        <Entry varId="FTP_InfiniteFundsShops" value="false"/>
+        <Entry varId="FTP_SellModifier" value="50"/>
+        <Entry varId="FTP_PriceMultiplier" value="1"/>
+      </Preset>
+      <Preset id="4" displayName="ftp_merchant_exploitation">
+        <Entry varId="FTP_IsEnabled" value="true"/>
+        <Entry varId="FTP_OriginalPrices" value="true"/>
+        <Entry varId="FTP_InfiniteFundsShops" value="false"/>
+        <Entry varId="FTP_SellModifier" value="40"/>
+        <Entry varId="FTP_PriceMultiplier" value="1"/>
+      </Preset>
+      <Preset id="5" displayName="ftp_fleeced_alive">
+        <Entry varId="FTP_IsEnabled" value="true"/>
+        <Entry varId="FTP_OriginalPrices" value="true"/>
+        <Entry varId="FTP_InfiniteFundsShops" value="false"/>
+        <Entry varId="FTP_SellModifier" value="30"/>
+        <Entry varId="FTP_PriceMultiplier" value="1"/>
+      </Preset>
+      <Preset id="6" displayName="ftp_utter_robbery">
+        <Entry varId="FTP_IsEnabled" value="true"/>
+        <Entry varId="FTP_OriginalPrices" value="true"/>
+        <Entry varId="FTP_InfiniteFundsShops" value="false"/>
+        <Entry varId="FTP_SellModifier" value="20"/>
+        <Entry varId="FTP_PriceMultiplier" value="1"/>
+      </Preset>
+    </PresetsArray>
+    <VisibleVars>
+      <Var id="FTP_IsEnabled" displayName="ftp_enable_mod" displayType="TOGGLE"/>
+      <Var id="SEP" displayName="" displayType="SUBTLE_SEPARATOR"/>
+      <Var id="FTP_OriginalPrices" displayName="ftp_original_prices" displayType="TOGGLE"/>
+      <Var id="FTP_SellModifier" displayName="ftp_trading_multiplier" displayType="SLIDER;10;100;18"/>
+      <Var id="FTP_PriceMultiplier" displayName="ftp_orig_price_multiplier" displayType="SLIDER;0.5;10;19"/>
+      <Var id="SEP" displayName="" displayType="SUBTLE_SEPARATOR"/>
+      <Var id="FTP_InfiniteFundsShops" displayName="ftp_infinite_funds_for_shops" displayType="TOGGLE"/>
+    </VisibleVars>
+  </Group>
+</UserConfig>

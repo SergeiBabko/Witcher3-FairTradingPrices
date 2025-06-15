@@ -1,0 +1,17 @@
+;meta[language=cz]
+; id      |key(hex)|key(str)| text
+;
+2119999000|        |panel_fair_trading_prices|Fair Trading Prices
+2119999001|        |preset_Mods_fair_trading_prices|Fair Trading Prices
+2119999002|        |preset_value_ftp_same_prices|Same Prices
+2119999003|        |preset_value_ftp_fair_trade|Fair Trade
+2119999004|        |preset_value_ftp_hard_bargain|Hard Bargain
+2119999005|        |preset_value_ftp_desperate_deal|Desperate Deal
+2119999006|        |preset_value_ftp_merchant_exploitation|Exploitation
+2119999007|        |preset_value_ftp_fleeced_alive|Fleeced Alive
+2119999008|        |preset_value_ftp_utter_robbery|Utter Robbery
+2119999009|        |option_ftp_enable_mod|Enable Mod
+2119999010|        |option_ftp_infinite_funds_for_shops|Infinite Funds For Shops
+2119999011|        |option_ftp_original_prices|Original prices (including all variables)
+2119999012|        |option_ftp_trading_multiplier|Trading Multiplier (higher = cheaper)
+2119999013|        |option_ftp_orig_price_multiplier|Price Multiplier

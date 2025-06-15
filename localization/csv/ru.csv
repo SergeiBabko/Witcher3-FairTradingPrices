@@ -1,0 +1,17 @@
+;meta[language=ru]
+; id      |key(hex)|key(str)| text
+;
+2119999000|        |panel_fair_trading_prices|Честная торговля
+2119999001|        |preset_Mods_fair_trading_prices|Честная торговля
+2119999002|        |preset_value_ftp_same_prices|Идентично
+2119999003|        |preset_value_ftp_fair_trade|Честно
+2119999004|        |preset_value_ftp_hard_bargain|Жёстко
+2119999005|        |preset_value_ftp_desperate_deal|Отчаянно
+2119999006|        |preset_value_ftp_merchant_exploitation|Обдиралово
+2119999007|        |preset_value_ftp_fleeced_alive|Грабеж
+2119999008|        |preset_value_ftp_utter_robbery|Разорение
+2119999009|        |option_ftp_enable_mod|Включить мод
+2119999010|        |option_ftp_infinite_funds_for_shops|Бесконечные деньги у торговцев
+2119999011|        |option_ftp_original_prices|Оригинальные цены (с учетом всех переменных)
+2119999012|        |option_ftp_trading_multiplier|Коэффициент торговли (больше = дешевле)
+2119999013|        |option_ftp_orig_price_multiplier|Множитель для цен
