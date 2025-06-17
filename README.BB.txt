@@ -1,8 +1,6 @@
-﻿[size=6][b]Fair Trading Prices (Witcher 3 Mod)[/b][/size]
-A configurable mod for The Witcher 3 that rebalances item trade values, allowing players to tweak how much gold they receive when selling items. It offers a more immersive, fair, or punishing economy based on your preferences - with multiple difficulty presets, optional infinite money for merchants, and full in-game configurability.
-
-[size=5][b]Note[/b][/size]
+﻿[size=5][b]Note[/b][/size]
 All changes made by this mod are based on the clean, unmodified Witcher 3 game code, without any leftovers or dependencies from other mods. This ensures maximum compatibility and stability.
+
 
 
 [size=5][b]Features[/b][/size]
@@ -35,17 +33,36 @@ You're being ripped off. Only a third of the value is returned on sale.
 Brutal setting - merchants exploit you fully. Gold is hard to come by.
 [/list]
 
-[size=5][b]Installation[/b][/size]
+[size=5][b]Installation Guide[/b][/size]
 
-[list=1]
-[*]Extract the contents into the [b][i]"mods"[/i][/b] folder
-Folder: [b][i]"The Witcher 3\mods\mod000FairTradingPrices"[/i][/b]
-[*]Copy the contents of the [b][i]"bin"[/i][/b] folder into the game's main [b][i]"bin"[/i][/b] directory
-[*]Add the mod [b][i]"FairTradingPrices.xml"[/i][/b] line to both the [b][i]"dx11filelist.txt"[/i][/b] and [b][i]"dx12filelist.txt"[/i][/b]
-Folder: [b][i]"The Witcher 3\bin\config\r4game\user_config_matrix\pc"[/i][/b]
-[i]This adds the mod menu configuration for in-game access[/i]
-[*]Launch the game and open the mod menu to adjust settings
+1. [b]Extract the contents[/b] into your Witcher 3 game directory using this structure:
+[list]
+[*][b][i]The Witcher 3\mods[/i][/b]
+[*][b][i]The Witcher 3\bin\config\r4game\user_config_matrix\pc[/i][/b]
 [/list]
+[code]The Witcher 3\
+├── mods\
+│   └── mod001FairTradingPrices\ (*)
+│       └── [mod content here]
+├── bin\
+│   └── config\
+│       └── r4game\
+│           └── user_config_matrix\
+│               └── pc\
+│                   ├── dx11filelist.txt
+│                   ├── dx12filelist.txt
+│                   └── FairTradingPrices.xml (*)[/code]
+
+
+4. [b]Edit the filelists[/b]:
+Add the following line to both: [b][i]"FairTradingPrices.xml"[/i][/b]
+[list]
+[*][b][i]dx11filelist.txt[/i][/b]
+[*][b][i]dx12filelist.txt[/i][/b]
+[/list]
+3. [b]Enable the mods[/b] in The Witcher 3 Launcher.
+4. [b]Launch the game[/b], go to [b][i]"Options → Mods"[/i][/b], and configure your desired settings.
+
 
 [size=5][b]Localization[/b][/size]
 

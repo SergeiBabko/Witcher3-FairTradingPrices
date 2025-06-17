@@ -39,15 +39,40 @@ All changes made by this mod are based on the clean, unmodified Witcher 3 game c
   | **Fleeced Alive**  | 30%      | You're being ripped off. Only a third of the value is returned on sale.                           |
   | **Utter Robbery**  | 20%      | Brutal setting - merchants exploit you fully. Gold is hard to come by.                            |
 
-## Installation
 
-1. **Extract the contents into the `mods` folder**  
-   Folder: `The Witcher 3\mods\mod000FairTradingPrices`
-2. **Copy the contents of the `bin` folder into the game's main `bin` directory**
-3. **Add the mod `FairTradingPrices.xml` line to both the `dx11filelist.txt` and `dx12filelist.txt`**  
-   Folder: `The Witcher 3\bin\config\r4game\user_config_matrix\pc`
-   * This adds the mod menu configuration for in-game access
-4. **Launch the game and open the mod menu to adjust settings**
+## Installation Guide
+
+1. **Extract the contents** into your Witcher 3 game directory using this structure:
+
+`The Witcher 3\mods`  
+`The Witcher 3\bin\config\r4game\user_config_matrix\pc`
+
+```txt
+The Witcher 3\
+├── mods\
+│   └── mod001FairTradingPrices\                 [*]
+│       └── [mod content here]
+├── bin\
+│   └── config\
+│       └── r4game\
+│           └── user_config_matrix\
+│               └── pc\
+│                   ├── dx11filelist.txt
+│                   ├── dx12filelist.txt
+│                   └── FairTradingPrices.xml    [*]
+```
+
+2. **Edit the filelists**:  
+   Add the following line to both:
+  - `dx11filelist.txt`
+  - `dx12filelist.txt`
+
+   ```txt
+   FairTradingPrices.xml
+   ```
+3. **Enable the mods** in The Witcher 3 Launcher
+4. **Launch the game**, go to **Options → Mods**, and configure your desired settings.
+
 
 ## Localization
 
