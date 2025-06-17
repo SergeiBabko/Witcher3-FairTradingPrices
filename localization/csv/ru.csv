@@ -1,6 +1,7 @@
 ;meta[language=ru]
 ; id      |key(hex)|key(str)| text
 ;
+2119998999|        |panel_Mods|Моды
 2119999000|        |panel_fair_trading_prices|Честная торговля
 2119999001|        |preset_Mods_fair_trading_prices|Честная торговля
 2119999002|        |preset_value_ftp_same_prices|Идентично
