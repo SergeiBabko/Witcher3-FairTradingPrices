@@ -1,18 +1,18 @@
 ;meta[language=zh]
 ; id      |key(hex)|key(str)| text
 ;
-2119998999|        |panel_Mods|Mods
-2119999000|        |panel_fair_trading_prices|Fair Trading Prices
-2119999001|        |preset_Mods_fair_trading_prices|Fair Trading Prices
-2119999002|        |preset_value_ftp_same_prices|Same Prices
-2119999003|        |preset_value_ftp_fair_trade|Fair Trade
-2119999004|        |preset_value_ftp_hard_bargain|Hard Bargain
-2119999005|        |preset_value_ftp_desperate_deal|Desperate Deal
-2119999006|        |preset_value_ftp_merchant_exploitation|Exploitation
-2119999007|        |preset_value_ftp_fleeced_alive|Fleeced Alive
-2119999008|        |preset_value_ftp_utter_robbery|Utter Robbery
-2119999009|        |option_ftp_enable_mod|Enable Mod
-2119999010|        |option_ftp_infinite_funds_for_shops|Infinite Funds For Shops
-2119999011|        |option_ftp_original_prices|Original prices (including all variables)
-2119999012|        |option_ftp_trading_multiplier|Trading Multiplier (higher = cheaper)
-2119999013|        |option_ftp_orig_price_multiplier|Price Multiplier
+2119998999|        |panel_Mods|模組
+2119999000|        |panel_fair_trading_prices|公平交易價格
+2119999001|        |preset_Mods_fair_trading_prices|公平交易價格
+2119999002|        |preset_value_ftp_same_prices|相同價格
+2119999003|        |preset_value_ftp_fair_trade|公平交易
+2119999004|        |preset_value_ftp_hard_bargain|殺價還價
+2119999005|        |preset_value_ftp_desperate_deal|絕望交易
+2119999006|        |preset_value_ftp_merchant_exploitation|巧取豪奪
+2119999007|        |preset_value_ftp_fleeced_alive|敲骨吸髓
+2119999008|        |preset_value_ftp_utter_robbery|公然搶劫
+2119999009|        |option_ftp_enable_mod|啟用模組
+2119999010|        |option_ftp_infinite_funds_for_shops|商人金錢無限
+2119999011|        |option_ftp_original_prices|使用遊戲原始物價（已調整價格差）
+2119999012|        |option_ftp_trading_multiplier|交易價格差（百分比）
+2119999013|        |option_ftp_orig_price_multiplier|價格倍數
