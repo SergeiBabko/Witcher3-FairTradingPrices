@@ -1,0 +1,18 @@
+;meta[language=cleartext]
+; id      |key(hex)|key(str)| text
+;
+2119998999|        |panel_Mods|模组
+2119999000|        |panel_fair_trading_prices|公平交易价格
+2119999001|        |preset_Mods_fair_trading_prices|公平交易价格
+2119999002|        |preset_value_ftp_same_prices|相同价格
+2119999003|        |preset_value_ftp_fair_trade|公平交易
+2119999004|        |preset_value_ftp_hard_bargain|讨价还价
+2119999005|        |preset_value_ftp_desperate_deal|危机交易
+2119999006|        |preset_value_ftp_merchant_exploitation|巧取豪夺
+2119999007|        |preset_value_ftp_fleeced_alive|敲骨吸髓
+2119999008|        |preset_value_ftp_utter_robbery|公开抢劫
+2119999009|        |option_ftp_enable_mod|启用模组
+2119999010|        |option_ftp_infinite_funds_for_shops|商人无限金钱
+2119999011|        |option_ftp_original_prices|使用游戏原始物价（价格差调整后）
+2119999012|        |option_ftp_trading_multiplier|交易价格差（百分比）
+2119999013|        |option_ftp_orig_price_multiplier|价格倍数
