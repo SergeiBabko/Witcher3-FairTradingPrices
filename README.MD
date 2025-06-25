@@ -80,6 +80,8 @@ The Witcher 3\
   * English
   * Russian
   * Polish
+  * Simplified Chinese ([Thanks to ewigl](https://github.com/SergeiBabko/Witcher3-FairTradingPrices/pull/1))
+  * Traditional Chinese ([Thanks to ewigl](https://github.com/SergeiBabko/Witcher3-FairTradingPrices/pull/1))
 * Translations are managed via CSV files.
 * Check the `localization` folder and see the internal README for instructions on compiling or submitting translations.
 * Compiled `.w3strings` are required for translations to take effect.

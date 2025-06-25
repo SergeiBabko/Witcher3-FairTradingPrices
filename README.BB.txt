@@ -67,7 +67,7 @@ Add the following line to both: [b][i]"FairTradingPrices.xml"[/i][/b]
 [size=5][b]Localization[/b][/size]
 
 [list]
-[*]Current translations included: [b][i]English, Russian, Polish[/i][/b]
+[*]Current translations included: [b][i]English, Russian, Polish, Simplified Chinese, Traditional Chinese[/i][/b]
 [*]Translations are managed via CSV files.
 [*]Check the [b][i]"localization"[/i][/b] folder and see the internal README for instructions on compiling or submitting translations.
 [*]Compiled [b][i]".w3strings"[/i][/b] are required for translations to take effect.
