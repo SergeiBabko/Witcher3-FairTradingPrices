@@ -40,18 +40,20 @@ Brutal setting - merchants exploit you fully. Gold is hard to come by.
 [*][b][i]The Witcher 3\mods[/i][/b]
 [*][b][i]The Witcher 3\bin\config\r4game\user_config_matrix\pc[/i][/b]
 [/list]
-[code]The Witcher 3\
-├── mods\
-│   └── mod001FairTradingPrices\ (*)
-│       └── [mod content here]
-├── bin\
-│   └── config\
-│       └── r4game\
-│           └── user_config_matrix\
-│               └── pc\
-│                   ├── dx11filelist.txt
-│                   ├── dx12filelist.txt
-│                   └── FairTradingPrices.xml (*)[/code]
+[code]📂 The Witcher 3
+      ├── 📂 bin
+      │    └── 📂 config
+      │         └── 📂 r4game
+      │              └── 📂 user_config_matrix
+      │                   └── 📂 pc
+      │                        ├── 📋 dx11filelist.txt
+      │                        ├── 📋 dx12filelist.txt
+      │                        └── 📝 FairTradingPrices.xml (*)
+      │
+      └── 📂 mods
+           └── 📂 mod001FairTradingPrices (*)
+                └── 📂 content (*)
+                     └── [mod content here][/code]
 
 
 4. [b]Edit the filelists[/b]:
@@ -67,7 +69,7 @@ Add the following line to both: [b][i]"FairTradingPrices.xml"[/i][/b]
 [size=5][b]Localization[/b][/size]
 
 [list]
-[*]Current translations included: [b][i]English, Russian, Polish[/i][/b]
+[*]Current translations included: [b][i]English, Russian, Polish, Simplified Chinese, Traditional Chinese[/i][/b]
 [*]Translations are managed via CSV files.
 [*]Check the [b][i]"localization"[/i][/b] folder and see the internal README for instructions on compiling or submitting translations.
 [*]Compiled [b][i]".w3strings"[/i][/b] are required for translations to take effect.

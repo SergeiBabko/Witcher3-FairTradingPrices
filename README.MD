@@ -48,18 +48,20 @@ All changes made by this mod are based on the clean, unmodified Witcher 3 game c
 `The Witcher 3\bin\config\r4game\user_config_matrix\pc`
 
 ```txt
-The Witcher 3\
-├── mods\
-│   └── mod001FairTradingPrices\                 [*]
-│       └── [mod content here]
-├── bin\
-│   └── config\
-│       └── r4game\
-│           └── user_config_matrix\
-│               └── pc\
-│                   ├── dx11filelist.txt
-│                   ├── dx12filelist.txt
-│                   └── FairTradingPrices.xml    [*]
+📂 The Witcher 3
+├── 📂 bin
+│    └── 📂 config
+│         └── 📂 r4game
+│              └── 📂 user_config_matrix
+│                   └── 📂 pc
+│                        ├── 📋 dx11filelist.txt
+│                        ├── 📋 dx12filelist.txt
+│                        └── 📝 FairTradingPrices.xml (*)
+│
+└── 📂 mods
+     └── 📂 mod001FairTradingPrices (*)
+          └── 📂 content (*)
+               └── [mod content here]
 ```
 
 2. **Edit the filelists**:  
@@ -80,6 +82,8 @@ The Witcher 3\
   * English
   * Russian
   * Polish
+  * Simplified Chinese ([Thanks to ewigl](https://github.com/SergeiBabko/Witcher3-FairTradingPrices/pull/1))
+  * Traditional Chinese ([Thanks to ewigl](https://github.com/SergeiBabko/Witcher3-FairTradingPrices/pull/1))
 * Translations are managed via CSV files.
 * Check the `localization` folder and see the internal README for instructions on compiling or submitting translations.
 * Compiled `.w3strings` are required for translations to take effect.
